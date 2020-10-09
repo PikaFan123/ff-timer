@@ -1,5 +1,7 @@
-# Rain Timer
+# Fishing Festival Timer
 
-This is a Rain Timer for Hypixel Skyblock ~~(totally untested as of yet)~~ Works!
+This is a Fishing Festival Timer for Hypixel Skyblock ~~(totally untested as of yet)~~ Works!
 
-Will be available at https://pikafan.de/rain
+Will be available at https://pikafan.de/festical
+
+This is just a slightly modified copy of https://github.com/PikaFan123/rain-timer

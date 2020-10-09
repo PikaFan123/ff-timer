@@ -23,12 +23,12 @@ function timer()
         if (ff && document.getElementById("qbm").style.backgroundImage != "url(assets/images/bg_ff.png)")
         {
             document.getElementById("qbm").style.backgroundImage = "url(assets/images/bg_ff.png)"
-            document.getElementById("is-rain").innerHTML = "💦 Fishing Festival is going 💦"
+            document.getElementById("is-ff").innerHTML = "💦 Fishing Festival is going 💦"
         }
         else
         {
             document.getElementById("qbm").style.backgroundImage = "url(assets/images/bg.png)"
-            document.getElementById("is-rain").innerHTML = "The next Fishing Festival starts in"
+            document.getElementById("is-ff").innerHTML = "The next Fishing Festival starts in"
 
         }
         
